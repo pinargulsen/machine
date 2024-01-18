@@ -1,5 +1,4 @@
 # Docker Machine
-
 ![](https://docs.docker.com/machine/img/logo.png)
 
 Machine lets you create Docker hosts on your computer, on cloud providers, and
